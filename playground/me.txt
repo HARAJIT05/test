@@ -1,0 +1,5 @@
+{{#user}}
+Name: Harajit
+Skills: HTML, CSS, JS, PYTHON, JAVA
+Email: harajithub@gmail.com
+{{/user}}
